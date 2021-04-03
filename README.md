@@ -3,7 +3,7 @@
 ## Descripton
 A client-server application in C++, and uses different communication fonctionnalities.
 The client relies on sending a request to another program in order to access a service made available by a server. The server runs one or more programs that share resources with and distribute work among clients.
-The client server relationship communicates in a request–response messaging pattern with the demon, and must adhere to a common communications protocol (defined in Architecture_schema.jpg), which formally defines the rules, language, and dialog patterns to be used. 
+The client server relationship communicates in a request–response messaging pattern with the demon, and must adhere to a common communications protocol (defined in architecture_schema.jpg), which formally defines the rules, language, and dialog patterns to be used. 
 
 ## Functionalities 
 ### Util.h
